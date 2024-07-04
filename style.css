@@ -1,0 +1,26 @@
+html , body {
+    height : 100%;
+    width : 100%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.button{
+    width: 66px;
+    margin: 0 3px;
+    padding: 20px;
+    border: 2px solid green;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.row{
+    margin : 8px 0 ;
+}
+.row input{
+    width: 300px;
+    font-size: medium;
+    margin: 0;
+    padding: 10px 0;
+    border: 2px solid green;
+    border-radius: 5px;
+
+}
+
